@@ -9,8 +9,6 @@ The project includes the following:
 
 - Implementation of an application in which the user can draw points by clicking and compute the convex layers formed around the points
 
-- Project documentation in the form of a LaTeX file and a .pdf file
-
 ## Requirements
 
 Python version 3.10
