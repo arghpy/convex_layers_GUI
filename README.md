@@ -17,7 +17,7 @@ Python version 3.10
 
 Simply run `final_project.py` as any other python program (regardless if it's a UNIX system or Windows):
 
-```
+```shell
 $: python3 final_project.py
 ```
 
